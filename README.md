@@ -1,7 +1,34 @@
-<h1 align="center">
-  <b>Hola, Soy Constanza </b>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
+<!-- Heading -->
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hola! Soy Constanza Herrera</h3>
+
+<!-- Profile Views -->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lauragift21&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/constanza-herrera-6476b4249/">Linkedin</a>
+</p>
+
+ <!-- About section -->
+
+---
+✨ Soy Full Stack Developer con una mezcla de amor por el código y un background en contabilidad (¡sí, sé cómo hacer que los números cuadren y también que los servidores funcionen!) ✨💻
+
+Con experiencia en JavaScript, TypeScript, Node.js, React, NestJS, y más tecnologías tanto del Front-End como del Back-End. Estoy por finalizar mi formación en Soy Henry, donde he aprendido a desarrollar soluciones completas y escalables, trabajando en todo el ciclo de desarrollo de aplicaciones, desde la creación de servidores robustos hasta interfaces dinámicas y amigables para el usuario.
+
+Mi background en administración contable y análisis financiero en el sector gastronómico me permitió desarrollar habilidades como la gestión de datos, organización y resolución de problemas bajo presión. Aunque mi carrera comenzó en la contabilidad, rápidamente me di cuenta de que la tecnología era mi verdadera pasión, y desde entonces he perfeccionado mis habilidades técnicas y mi capacidad para trabajar en equipo y comunicarme de manera efectiva.
+
+Me especializo en trabajar con herramientas como PostgreSQL, MongoDB, Docker, Tailwind CSS y TypeScript, y disfruto resolviendo problemas complejos mediante soluciones eficientes y optimizadas. Además de la programación, mis intereses incluyen ir al gimnasio, meditar y bordar, lo que me ayuda a mantener un equilibrio entre el trabajo y mi vida personal.
+
+Estoy siempre en búsqueda de nuevas oportunidades para seguir aprendiendo y contribuir con proyectos que generen un impacto positivo. ¡Si estás buscando una desarrolladora apasionada, organizada y comprometida con los resultados, no dudes en contactarme!
+
+
+<!-- code gif-->
+<img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
+
+- 📫 Gmail: conty1505@gmail.com
+
 
 <!-- Typing effect -->
 <p align="center" style="margin-top: 20px;">
@@ -11,22 +38,6 @@
 </p>
 
 <br>
-
-<!-- About me section -->
-<h2 style="margin-top: 40px;">
-  <picture>
-    <img src="https://media.giphy.com/media/SUcApSWjPwQMARvcM8/giphy.gif?cid=ecf05e47rwbot8gkop1hf1lk75lj21eoh96ppk30fycazyru&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="50px">
-  </picture>
-  About Me
-</h2>
-
-<a target="_blank" style="float: right; margin-left: 20px;">
-  <img height="300" width="400" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDB6bWprNWd5N3IxcTBveHJ0bmh3cTc4anYyY2Iwa2ZxbGgwNW1uMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif">
-</a>
-
-<p style="margin-top: 20px;">Soy Full Stack Developer con una mezcla de amor por el código y un background en contabilidad (¡sí, sé cómo hacer que los números cuadren y también que los servidores funcionen!) ✨💻</p>
-
-<br clear="both">
 
 <!-- Technologies section -->
 <div id="user-content-toc" style="margin-top: 40px;">
